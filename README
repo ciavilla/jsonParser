@@ -1,0 +1,6 @@
+This is a JSON parser
+
+It can parse a Valid JSON object, and a invalid JSON file. Will report if the object is valid, or invalid JSON.
+It gives a standard output message and exits with code 1 or 0.
+It tests key value pairs, strings, numeric, boolean and null values, nested objects ,and nested Arrays.
+I also implemented my own test file.
